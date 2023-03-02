@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Oceane 
+I'm a student at Epitech school (2nd year) 🦋
 
 <!--
 **Oce78/Oce78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
